@@ -1,0 +1,2 @@
+CODURI NOI CARE O SA AM NEVOIE:
+Tag - folosit pentru a specifica regiuni ale documentului HTML, pe care le va interpreta ulterior browser-ul. Tag-urile vor avea aceasta infatisare: <tag>

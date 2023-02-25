@@ -1,0 +1,14 @@
+.red {
+    background: red;
+    height: 300px;
+    margin-bottom: 15px;
+}
+.blue {
+    background: blue;
+    height: 150px;
+    margin-bottom: 15px;
+}
+.green {
+    background: green;
+    height: 300px;
+}
